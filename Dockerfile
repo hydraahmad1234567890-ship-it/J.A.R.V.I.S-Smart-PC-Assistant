@@ -17,6 +17,10 @@ RUN apt-get update && apt-get install -y \
     librandr2 \
     libgbm1 \
     libasound2 \
+    libportaudio2 \
+    flac \
+    espeak \
+    ffmpeg \
     libpangocairo-1.0-0 \
     libatk1.0-0 \
     libgtk-3-0 \
