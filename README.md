@@ -39,5 +39,14 @@
 ## 📱 Mobile Access
 Access the interface on your phone by using your PC's local IP address (e.g., `http://192.168.1.X:5000`) while on the same network.
 
+## ☁️ Cloud & "Always-On"
+### 1. Hybrid Cloud Deployment
+Deploy to **Railway** or **Render** using the provided `Dockerfile`. This keeps J.A.R.V.I.S.'s "Intelligence" online 24/7 even if your PC is off.
+
+### 2. Local Silent Mode
+To run J.A.R.V.I.S. in the background on your PC:
+1. Double-click `start_jarvis.bat`.
+2. J.A.R.V.I.S. will minimize to the background, allowing you to access the web interface even after closing your terminal.
+
 ---
 *Built for the future by Tony Stark's finest. 🦾*
