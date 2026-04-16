@@ -1,0 +1,13 @@
+# J.A.R.V.I.S. Mark IV - Git Exclusion
+.env
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+node_modules/
+dist/
+.netlify/
+browser_session/
+*.log
