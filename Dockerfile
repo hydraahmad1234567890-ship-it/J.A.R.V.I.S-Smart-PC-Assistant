@@ -39,5 +39,5 @@ COPY . .
 # Expose the Cloud Port
 EXPOSE 5000
 
-# Start the Master Server
-CMD ["python", "server.py"]
+# Start the Master Server with Gunicorn (Shell format for $PORT support)
+CMD gunicorn --bind 0.0.0.0:$PORT server:app
