@@ -2,7 +2,7 @@
 
 > "Just A Rather Very Intelligent System"
 
-A high-fidelity, web-powered AI assistant designed to act as your proactive PC operator and smart conversationalist.
+**Introducing My Latest Project:** J.A.R.V.I.S. – A Personal AI Assistant modeled after Tony Stark’s iconic counterpart. Built with advanced natural language processing to handle queries, automate tasks, and manage your digital life with unparalleled precision.
 
 ## 🚀 Features
 - **Modern Web Interface**: Premium, dark-mode-ready interface for desktop and mobile.
@@ -10,6 +10,7 @@ A high-fidelity, web-powered AI assistant designed to act as your proactive PC o
 - **Deep-Seek Brain**: Powered by high-speed reasoning via OpenRouter.
 - **LinkedIn Automation**: Draft and post content directly to your feed.
 - **Hybrid Voice Control**: Real-time STT/TTS via browser-native APIs.
+- **Proactive Automation**: Designed to handle complex workflows and daily tasks automatically.
 
 ## 🛠️ Getting Started
 
